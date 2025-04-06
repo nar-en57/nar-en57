@@ -4,8 +4,8 @@ Welcome to my GitHub profile repository! Here you'll find all the configuration 
 
 ## About Me
 
-- 👀 I’m interested in developing interactive data visualizations and powerful analytics tools.
-- 🌱 I’m currently learning advanced data analysis techniques and machine learning.
+- 👀 I’m passionate about building interactive data visualizations and making complex data easy to understand and act on.
+- 🌱 I’m currently learning advanced data analysis techniques and machine learning, with a focus on building interactive data visualizations and uncovering actionable insights.
 - 💞️ I’m looking to collaborate on open-source projects related to data science and analytics.
 - 📫 How to reach me: [nar-en57](mailto:narenjamdar57@gmail.com)
 - 😄 Pronouns: He/Him
@@ -23,8 +23,9 @@ Here are some of my notable projects:
 
 - **Programming Languages**: Python, R, SQL
 - **Data Visualization**: Power BI, Advanced Excel, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn, Pandas, Numpy, OpenCV, YoloV5.
-- **Database Management**: MySQL, MongoDB.
+- **Machine Learning**: Scikit-learn, Pandas, Numpy, OpenCV, YoloV5
+- **Database Management**: MySQL, MongoDB
+- **Other Tools**: Jupyter Notebook, Google Looker Studio, Git, Excel PivotTables
 
 ## Get in Touch
 
