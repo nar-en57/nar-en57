@@ -8,7 +8,7 @@ Welcome to my GitHub profile repository! Here you'll find all the configuration 
 - 🌱 I’m currently learning advanced data analysis techniques and machine learning.
 - 💞️ I’m looking to collaborate on open-source projects related to data science and analytics.
 - 📫 How to reach me: [nar-en57](mailto:narenjamdar57@gmail.com)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring the intersection of technology and art.
 
 ## Projects
