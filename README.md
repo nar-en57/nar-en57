@@ -17,6 +17,7 @@ Here are some of my notable projects:
 
 - **[Mobile Sales Power BI Dashboard](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard)**: Interactive Power BI dashboards that visualize mobile sales data with a focus on trends over time, customer behavior, and regional performance.
 - **[Hospital Excel Dashboard](https://github.com/nar-en57/Hospital-Dashboard-Using-Excel)**: Interactive Excel dashboard that tracks emergency room performance, patient demographics, wait times, satisfaction scores, and departmental referrals.
+- **[Challan Generator App](https://github.com/nar-en57/Challan-Generator-App)**: A web-based PDF Challan Generator built for Ready Mix Concrete (RMC) plants. Takes delivery inputs and generates formatted, print-ready challans for site engineers and operators.
 - **[Covid-19 Analysis India](https://github.com/nar-en57/COVID19-India-Analysis-Extended)**: Extended analysis of COVID-19 in India using Kaggle data, featuring visualizations of case trends, state-wise impact, and key insights into the early pandemic stages.
 
 ## Skills
