@@ -26,7 +26,25 @@
 
 ###
 
-<p align="left">Hi, I’m Naren Jamdar — a Data Science graduate who loves turning messy datasets into useful tools and insights. Whether it's building dashboards, lightweight web apps, or automating reports, I enjoy making data actually do something.<br><br>🔧 Tools & Tech I use regularly:<br>Python • SQL • Power BI • Looker Studio • Flask • Excel • Jupyter Notebook • Git<br><br>🚀 A few things I’ve built:<br><br>A Flask-based Challan Generator App that tracks over 500 dispatches and generates instant insights.<br><br>Interactive Power BI dashboards for mobile metrics and hospital KPIs—used by teams to monitor performance in real time.<br><br>A full SQL project simulating an online bookstore, complete with custom queries and data-driven recommendations.<br><br>COVID-19 data analysis using Python and Jupyter—scraped, cleaned, and visualized data trends across countries and time.<br><br>🌱 What I’m exploring now:<br>Backend development, web scraping, and more advanced data viz techniques.<br><br>📫 Let’s connect:<br>Check out my projects on GitHub, drop a suggestion, or say hi on LinkedIn—always open to learning and collaborating!</p>
+<p align="left">
+  Hi, I’m <strong>Naren Jamdar</strong> — a Data Science graduate who loves turning messy datasets into useful tools and insights. Whether it's building dashboards, lightweight web apps, or automating reports, I enjoy making data actually <em>do</em> something.
+  <br><br>
+  🔧 <strong>Tools & Tech I use regularly:</strong><br>
+  Python • SQL • Power BI • Looker Studio • Flask • Excel • Jupyter Notebook • Git
+  <br><br>
+  🚀 <strong>A few things I’ve built:</strong><br><br>
+  🔹 <a href="https://github.com/nar-en57/Challan-Generator-App" target="_blank"><strong>Challan Generator App</strong></a>: A Flask-based app that tracks 500+ dispatches and generates instant insights.<br><br>
+  🔹 <a href="https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard" target="_blank"><strong>Interactive Power BI Dashboards</strong></a>: Dashboards for mobile metrics and hospital KPIs—used by teams to monitor performance in real time.<br><br>
+  🔹 <a href="https://github.com/nar-en57/SQL-Project-Online-Book-Store" target="_blank"><strong>SQL Bookstore Project</strong></a>: Simulates an online bookstore with custom queries and data-driven recommendations.<br><br>
+  🔹 <a href="https://github.com/nar-en57/COVID19-India-Analysis-Extended" target="_blank"><strong>COVID-19 Data Analysis</strong></a>: Used Python and Jupyter to scrape, clean, and visualize global trends over time.
+  <br><br>
+  🌱 <strong>What I’m exploring now:</strong><br>
+  Backend development, web scraping, and more advanced data viz techniques.
+  <br><br>
+  📫 <strong>Let’s connect:</strong><br>
+  Check out my work on <a href="https://github.com/nar-en57" target="_blank">GitHub</a> or say hi on <a href="www.linkedin.com/in/naren-jamdar-5b0551348" target="_blank">LinkedIn</a>—always open to learning and collaborating!
+</p>
+
 
 ###
 
