@@ -1,0 +1,28 @@
+name: Generate Snake Animation (Pac-Man)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs every day at midnight UTC
+  workflow_dispatch:      # allows manual trigger from Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man Contribution Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: nar-en57
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
+
+      - name: Push generated SVG to the output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate Pac-Man graph"
+          add: "output"
