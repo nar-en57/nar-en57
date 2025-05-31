@@ -1,40 +1,77 @@
-# Hi there, I'm nar-en57 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE4Mng3cmRpeWFzNGlkaDZmenF3bGd5ejBlNDgxaW03ZnN0NXdtaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
 
-Welcome to my GitHub profile repository! Here you'll find all the configuration files and resources related to my GitHub profile.
+###
 
-## About Me
+<div align="center">
+  <a href="www.linkedin.com/in/naren-jamdar-5b0551348" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="narenjamdar57@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/naren323482" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
 
-- 👀 I’m passionate about building interactive data visualizations and making complex data easy to understand and act on.
-- 🌱 I’m currently learning advanced data analysis techniques and machine learning.
-- 💞️ I’m looking to collaborate on open-source projects related to data science and analytics.
-- 📫 How to reach me: [nar-en57](mailto:narenjamdar57@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring the intersection of technology and art.
+###
 
-## Projects
+<h1 align="center">hey there👋</h1>
 
-Here are some of my notable projects:
+###
 
-- **[Mobile Sales Power BI Dashboard](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard)**: Interactive Power BI dashboards that visualize mobile sales data with a focus on trends over time, customer behavior, and regional performance.
-- **[Hospital Excel Dashboard](https://github.com/nar-en57/Hospital-Dashboard-Using-Excel)**: Interactive Excel dashboard that tracks emergency room performance, patient demographics, wait times, satisfaction scores, and departmental referrals.
-- **[Challan Generator App](https://github.com/nar-en57/Challan-Generator-App)**: A web-based PDF Challan Generator built for Ready Mix Concrete (RMC) plants. Takes delivery inputs and generates formatted, print-ready challans for site engineers and operators.
-- **[Covid-19 Analysis India](https://github.com/nar-en57/COVID19-India-Analysis-Extended)**: Extended analysis of COVID-19 in India using Kaggle data, featuring visualizations of case trends, state-wise impact, and key insights into the early pandemic stages.
+<h3 align="left">👩‍💻  About Me</h3>
 
-## Skills
+###
 
-- **Programming Languages**: Python, R, SQL
-- **Data Visualization**: Power BI, Advanced Excel, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn, Pandas, Numpy, OpenCV, YoloV5
-- **Database Management**: MySQL, MongoDB
-- **Other Tools**: Jupyter Notebook, Google Looker Studio, Git, Excel PivotTables
+<p align="left">Hi, I’m Naren Jamdar — a Data Science graduate who loves turning messy datasets into useful tools and insights. Whether it's building dashboards, lightweight web apps, or automating reports, I enjoy making data actually do something.<br><br>🔧 Tools & Tech I use regularly:<br>Python • SQL • Power BI • Looker Studio • Flask • Excel • Jupyter Notebook • Git<br><br>🚀 A few things I’ve built:<br><br>A Flask-based Challan Generator App that tracks over 500 dispatches and generates instant insights.<br><br>Interactive Power BI dashboards for mobile metrics and hospital KPIs—used by teams to monitor performance in real time.<br><br>A full SQL project simulating an online bookstore, complete with custom queries and data-driven recommendations.<br><br>COVID-19 data analysis using Python and Jupyter—scraped, cleaned, and visualized data trends across countries and time.<br><br>🌱 What I’m exploring now:<br>Backend development, web scraping, and more advanced data viz techniques.<br><br>📫 Let’s connect:<br>Check out my projects on GitHub, drop a suggestion, or say hi on LinkedIn—always open to learning and collaborating!</p>
 
-## Get in Touch
+###
 
-Feel free to reach out to me via email. I'm always open to discussing new opportunities and collaborations.
+<h3 align="left">🛠 Language and tools</h3>
 
-Thank you for visiting my GitHub profile!
+###
 
-<!---
-nar-en57/nar-en57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nar-en57&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nar-en57/nar-en57/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nar-en57/nar-en57/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nar-en57/nar-en57/output/pacman-contribution-graph.svg">
+</picture>
+
+###
