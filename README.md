@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/naren-jamdar-5b0551348" target="_blank">
+  <a href="https://www.linkedin.com/in/naren-jamdar-5b0551348/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="narenjamdar57@gmail.com" target="_blank">
@@ -42,7 +42,7 @@
   Backend development, web scraping, and more advanced data viz techniques.
   <br><br>
   📫 <strong>Let’s connect:</strong><br>
-  Check out my work on <a href="https://github.com/nar-en57" target="_blank">GitHub</a> or say hi on <a href="www.linkedin.com/in/naren-jamdar-5b0551348" target="_blank">LinkedIn</a>—always open to learning and collaborating!
+  Check out my work on <a href="https://github.com/nar-en57" target="_blank">GitHub</a> or say hi on <a href="https://www.linkedin.com/in/naren-jamdar-5b0551348/" target="_blank">LinkedIn</a>—always open to learning and collaborating!
 </p>
 
 
